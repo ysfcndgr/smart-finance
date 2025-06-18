@@ -1,9 +1,7 @@
 # 🏦 Smart Finance Advisor
 
-![Website](https://img.shields.io/website?url=https://smartfinance.dev)
-![GitHub last commit](https://img.shields.io/github/last-commit/smartfinance/finance-advisor)
-![GitHub stars](https://img.shields.io/github/stars/smartfinance/finance-advisor?style=social)
-![License](https://img.shields.io/github/license/smartfinance/finance-advisor)
+![Website](https://img.shields.io/website?url=https://www.moneptic.com)
+
 
 **Smart Finance Advisor** is an intelligent personal finance management platform that leverages AI to provide comprehensive financial insights, automated budgeting, investment recommendations, and personalized financial health monitoring for individuals and businesses.
 
