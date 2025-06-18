@@ -2,8 +2,6 @@
 
 ![Website](https://img.shields.io/website?url=https://www.moneptic.com)
 
-https://www.moneptic.com
-
 **Smart Finance Advisor** is an intelligent personal finance management platform that leverages AI to provide comprehensive financial insights, automated budgeting, investment recommendations, and personalized financial health monitoring for individuals and businesses.
 
 ---
@@ -143,3 +141,4 @@ https://www.moneptic.com
 
 > Built with 💰 by the Smart Finance Team.  
 > Empowering financial decisions through intelligent technology.
+> Visit [Moneptic.com](https://www.moneptic.com/) to learn more.
